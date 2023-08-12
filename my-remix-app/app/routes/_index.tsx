@@ -1,6 +1,6 @@
 
-export default function indexRoute( { } ){
+export default function IndexRoute( { } ){
     return(
-    'Hello Index Route'
+        'Hello Index Route'
     )
 }
